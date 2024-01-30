@@ -52,7 +52,7 @@ Full-stack developer (Back-End biased) with deep Typescript and NodeJS knowledge
 
 <br/>  
 
-
+<!---
 ## Github Stats  
 <table><tr><td valign="middle" width="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=mdaum&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
@@ -60,6 +60,7 @@ Full-stack developer (Back-End biased) with deep Typescript and NodeJS knowledge
 </td></tr></table>  
 
 <br/>  
+-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=mdaum&&style=flat-square)  
 
